@@ -1,6 +1,7 @@
 João Victor Fernandes de Andrade 
 Adrian Siqueira Piedade
 Guilherme Cunha Alves
+Leonardo Ferreira Werder Gonçalves
 Matheus Pinto
 Bruno Nascimento
 Michelle Peroni
@@ -10,5 +11,7 @@ Rafaela Amaral Ferreira Da Silva
 Matheus Cardoso Oliveira
 Rafaela Amaral Ferreira Da Silva
 Moises Alves Silva
+Dhiego Fernandes da Silva
 Guilherme Rodrigues de Castro
+
 
